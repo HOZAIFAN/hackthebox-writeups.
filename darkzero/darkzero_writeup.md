@@ -1,10 +1,10 @@
 # DarkZero (HTB), Complete Penetration Testing Writeup
 
-**Machine:** DarkZero
-**Difficulty:** Hard
-**OS:** Windows Server 2022 / Server 2025
-**Domains:** `darkzero.htb` (DC01, `10.129.3.51`) ↔ `darkzero.ext` (DC02, `172.16.20.2`)
-**Initial Credentials:** `john.w` / `RFulUtONCOL!`
+**Machine:** DarkZero \
+**Difficulty:** Hard \
+**OS:** Windows Server 2022 / Server 2025 \
+**Domains:** `darkzero.htb` (DC01, `10.129.3.51`) ↔ `darkzero.ext` (DC02, `172.16.20.2`) \
+**Initial Credentials:** `john.w` / `RFulUtONCOL!` \
 **Authorization:** HackTheBox lab, explicit authorization for all testing.
 
 **Flags:**
